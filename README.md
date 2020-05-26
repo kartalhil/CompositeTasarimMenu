@@ -1,4 +1,4 @@
-# CompositeTasarimMenu
+# Composite Tasarım Menu
 Composite Tasarıma örnek olarak bir restaurant menüsü hazırlanmıştır.
 
 ## Senaryo: 
